@@ -1,0 +1,19 @@
+@import "test.scss";
+.tes {
+    content: '';
+    display: block;
+    width: 20px;
+    height: 20px;
+    background: red;
+    position: absolute;
+    top: -11px;
+    left: 19px;
+    border: 2px solid #9ad223;
+    border-right: 0;
+    border-bottom: 0;
+    border-top-left-radius: 7px;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+}

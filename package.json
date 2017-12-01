@@ -1,0 +1,13 @@
+{
+    "name": "astound",
+    "private": true,
+    "version": "1.0.0",
+    "description": "Astound test work",
+    "repository": "https://github.com/annastazi09/astound-test.git",
+    "license": "MIT",
+    "devDependencies": {
+        "live-server": "^1.2.0"
+    },
+    "dependencies": {},
+    "scripts": {}
+}
